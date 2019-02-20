@@ -62,25 +62,25 @@ var translationObj = {
   },
   ES: {
     Form: [
-      "Numero de Equipo",
-      "Numero de Equipo del Robot",
+      "Num. de Equipo",
+      "Nun. del Robot",
       "Prueba",
       "Practica de Campo",
       "Match de Practica",
-      "Match de Calificacion",
-      "Cuartos de Final",
+      "Match Calificatorio",
+      "4tos de Final",
       "Semi-finales",
       "Final",
-      "Numero de Match",
+      "Num. de Match",
       "Iniciar",
       "Regresar",
-      "Single QR"
+      "Un solo QR"
     ],
     EventTitles: [
       "Cruzado Linea HAB Niv 1",
       "Cruzado Linea HAB Niv 2",
-      "Carga Recuperad",
-      "Carga Caida",
+      "Cargo Cargado",
+      "Cargo Caido",
       "Hatch Recuperado",
       "Hatch Caido",
       "Puntaje en Cargo Ship",
@@ -91,12 +91,12 @@ var translationObj = {
       "Fallido en Cohete Niv 2",
       "Puntaje en Cohete Niv 3",
       "Fallido en Cohete Niv 3",
-      "Hab Climb Niv 1",
-      "Hab Climb Niv 2",
-      "Hab Climb Niv 3",
-      "Fallido Hab Climb",
-      "Played Defense",
-      "Crossed Field"
+      "Escala HAB Niv 1",
+      "Escala HAB Niv 2",
+      "Escala HAB Niv 3",
+      "Fallido Escala HAB",
+      "Jugado Defensa",
+      "Arena Cruzada"
     ],
     ButtonName: [
       "Cruzado Linea HAB Niv 1",
@@ -117,8 +117,8 @@ var translationObj = {
       "Niv 2",
       "Niv 3",
       "Fallido",
-      "Crossed Field",
-      "Played Defense"
+      "Cruzada Arena",
+      "Jugo Defensa"
     ]
   }
 };
